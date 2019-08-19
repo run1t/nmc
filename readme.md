@@ -1,3 +1,4 @@
+This project has been archived - Go to [https://github.com/voidcosmos/npkill](npkill) instead
 # NMC - node_module Cleaner
 
 NMC is a tool that help you clean all of your `node_modules`, it will scan all the subdirectories of the working 
